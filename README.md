@@ -294,12 +294,11 @@ GET https://genztech-whatsapp-bot.vercel.app/cron/followup
 
 ---
 
-## 📜 Submission Info
+## 📜 Assignment Info
 
 **Assignment:** GenZTech Internship — Assignment 01  
 **Submitted by:** Atharv More  
-**Email:** atharvmore2006@gmail.com  
-**Deadline:** 21 April 2026  
+**Email:** atharvmore0203@gmail.com  
 **Company:** GenZTech (genztech.pro)
 
 ---
